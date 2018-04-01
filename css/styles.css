@@ -99,7 +99,7 @@ picture {
 
 /*** Hero image ***/
 .hero-image {
-  background: url(../images/fon-large.jpg) no-repeat;
+  background: url(../images/fon-large.jpg);
 }
 
 h2.intro {
